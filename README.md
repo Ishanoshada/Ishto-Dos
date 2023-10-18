@@ -1,6 +1,6 @@
 # Ishto DoS
 
-[![GitHub stars](https://img.shields.io/github/stars/ishanoshada/Ishto-Dos)](https://github.com/ishanoshada/Ishto-Dos/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Ishanoshada/Ishto-Dos)](https://github.com/ishanoshada/Ishto-Dos/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishanoshada/Ishto-Dos)](https://github.com/ishanoshada/Ishto-Dos/network)
 [![License](https://img.shields.io/github/license/ishanoshada/Ishto-Dos)](https://github.com/ishanoshada/ishto-Dos/blob/main/LICENSE)
 
