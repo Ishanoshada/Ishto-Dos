@@ -1,0 +1,4 @@
+aiohttp
+pystyle
+user_agent
+colorama
