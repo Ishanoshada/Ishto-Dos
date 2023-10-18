@@ -1,8 +1,8 @@
 # Ishto DoS
 
 [![GitHub stars](https://img.shields.io/github/stars/Ishanoshada/Ishto-Dos)](https://github.com/ishanoshada/Ishto-Dos/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ishanoshada/Ishto-Dos)](https://github.com/ishanoshada/Ishto-Dos/network)
-[![License](https://img.shields.io/github/license/ishanoshada/Ishto-Dos)](https://github.com/ishanoshada/ishto-Dos/blob/main/LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/Ishanoshada/Ishto-Dos)](https://github.com/ishanoshada/Ishto-Dos/network)
+[![License](https://img.shields.io/github/license/Ishanoshada/Ishto-Dos)](https://github.com/ishanoshada/Ishto-Dos/blob/main/LICENSE)
 
 Ishto DoS is a powerful Python-based tool designed for conducting DoS (Denial of Service) attacks in a controlled environment for testing and educational purposes.
 
